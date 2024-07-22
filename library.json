@@ -64,10 +64,6 @@
       "name": "DallasTemperature"
     },
     {
-      "name": "ESPTrueRandom",
-      "version": "https://github.com/sivar2311/ESPTrueRandom"
-    },
-    {
       "name": "Wire"
     },
     {
